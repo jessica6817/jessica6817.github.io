@@ -1,3 +1,23 @@
+*{
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+}
+
+body{
+    font-family: 'Noto sans TC',sans-serif;
+}
 p.redred{
-    color:red;
+    color:rgba(234, 25, 25, 0.908);
+    font-size:40px;
+    text-align: left;
+    text-indent: 2em;
+    background-color: rgba(203, 240, 255, 0.89);
+}
+
+.blueblue{
+    color:rgb(0, 132, 232);
+}
+
+.purplepurple{
+    color:rgb(100, 17, 100);
 }
