@@ -22,3 +22,12 @@ p.redred{
 .purplepurple{
     color:rgb(100, 17, 100);
 }
+
+.expedu_icon{
+    color:orange;
+}
+
+.expedu_icon:hover{
+    color: white;
+    background-color: orange;
+}
