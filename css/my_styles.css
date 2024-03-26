@@ -8,6 +8,8 @@ body{
 }
 p.redred{
     color:rgba(234, 25, 25, 0.908);
+    border: 20px solid;
+    border-color: brown;
     font-size:40px;
     text-align: left;
     text-indent: 2em;
